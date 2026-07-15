@@ -1,2 +1,2 @@
 # TX_unit
-Project for STM32 device for a BrainRing and EruditCafe games
+STM32-based transmit unit for multiplayer intellectual games (BrainRing, EruditQuartet, etc.)
